@@ -1,0 +1,11 @@
+﻿/*  comment */
+#main {
+	color:purple;
+}
+
+.test{
+	font-size: 36px;
+}
+body{
+	background: url('img/pannya.jpg') #101010 repeat-x fixed center top;
+}
